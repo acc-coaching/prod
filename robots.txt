@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.acc-coaching.fr/sitemap.xml
+Sitemap: https://acc-coaching.fr/sitemap.xml
